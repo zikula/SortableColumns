@@ -1,3 +1,7 @@
+# Added to monorepo
+
+SortableColumns has been included into the [core repository](https://github.com/zikula/core/).
+
 # SortableColumns
 SortableColumns is a Zikula component to help manage data table column headings that can be clicked to sort the data.
 The collection is an `Doctrine\Common\Collections\ArrayCollection` of `Zikula\Component\SortableColumns\Column` objects.
